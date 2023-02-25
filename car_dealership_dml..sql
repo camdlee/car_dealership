@@ -9,15 +9,37 @@ INSERT INTO Customer(
     '555 thieves st',
     '555-555-5555'
 );
+(
+    'Lambo',
+    'Ferrari',
+    '553 thieves st',
+    '555-555-5555'
+);
+(
+    'Yosemite',
+    'tsuchida',
+    '553 thieves st',
+    '555-555-5555'
+);
+(
+    'eric',
+    'Oshounosy',
+    '553 thieves st',
+    '555-555-5555'
+);
 
 INSERT INTO salesperson(
     first_name,
     last_name,
-    customer_address,
-    phone_num
 ) VALUES (
     'John',
     'Doe',
-    '555 thieves st',
-    '555-555-5555'
+);
+(
+    'Mike',
+    'Smith',
+);
+(
+    'Thanos',
+    'Carter',
 );
