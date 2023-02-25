@@ -1,0 +1,11 @@
+{
+    "sqltools.connections": [
+        {
+            "previewLimit": 50,
+            "server": "localhost",
+            "driver": "PostgreSQL",
+            "connectString": "postgres://kbicuzeg:ANbYpHkgMQ7Kuy0cXAJUHZ6EcJbasc_J@raja.db.elephantsql.com/kbicuzeg",
+            "name": "car_dealership_db"
+        }
+    ]
+}
